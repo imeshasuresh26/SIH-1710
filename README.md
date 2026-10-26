@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:26.10.2026
+## Register Number:212225040131
+## Name:Imesha.S
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -17,7 +17,8 @@ The proposed solution, RailNav Smart Guide, is a smart indoor navigation system 
 
 The system uses interactive digital maps, real-time navigation, and accessibility-focused features to improve passenger movement inside complex station environments. It works through mobile applications and station-installed digital kiosks, ensuring access for all types of users.
 
-Key Features
+## Key Features
+
 Passenger-Centric Features
 
 Indoor Navigation: Step-by-step directions inside railway stations
